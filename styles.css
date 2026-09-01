@@ -280,10 +280,6 @@ h1, h2, h3 { letter-spacing: -0.018em; }
   padding-top: 32px;
 }
 
-.action-cta .primary-button {
-  border-radius: 999px;
-}
-
 /* Tablet and phone layout */
 
 @media (max-width: 900px) {
