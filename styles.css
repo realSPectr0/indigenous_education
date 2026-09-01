@@ -277,7 +277,7 @@ h1, h2, h3 { letter-spacing: -0.018em; }
 }
 
 .action-cta {
-  margin-top: 28px;
+  padding-top: 32px;
 }
 
 /* Tablet and phone layout */
