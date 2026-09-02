@@ -63,6 +63,7 @@ h1, h2, h3 {
 }
 
 .header-inner {
+  width: min(1460px, calc(100% - 48px));
   min-height: 104px;
   display: flex;
   align-items: center;
